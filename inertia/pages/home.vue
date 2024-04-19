@@ -8,7 +8,7 @@ defineProps<{ version: number }>()
   <Head title="Homepage" />
 
   <div class="container">
-    <div class="title">AdonisJS 182 {{ version }} x Inertia x Vue.js</div>
+    <div class="title">AdonisJS {{ version }} x Inertia x Vue.js</div>
 
     <span>
       Learn more about AdonisJS and Inertia.js by visiting the
